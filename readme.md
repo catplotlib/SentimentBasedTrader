@@ -56,4 +56,4 @@ The backtest uses historical data from Yahoo Finance. The time range for the bac
 ```python
 start_date = datetime(2023, 1, 1)
 end_date = datetime(2024, 1, 31)
-```# SentimentBasedTrader
+```
